@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Player : MonoBehaviour{
 
@@ -8,14 +9,24 @@ public class Player : MonoBehaviour{
     private Vector3 moveDelta;
     private RaycastHit2D hit;
 
+    public int health;
+    public int healthcap;
+    public Text healthbox;
+
     private void Start(){
         boxCollider = GetComponent<BoxCollider2D>();
+        healthbox = GetComponent<Text>();
+        
+        health = 10;
+        healthcap = 10;
     }
 
     private void FixedUpdate(){
 
         float x = Input.GetAxisRaw("Horizontal");
         float y = Input.GetAxisRaw("Vertical");
+
+        
 
         moveDelta = new Vector3(x,y,0);
 
