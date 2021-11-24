@@ -8,6 +8,9 @@ public class Player : MonoBehaviour{
     private BoxCollider2D boxCollider;
     private Vector3 moveDelta;
     private RaycastHit2D hit;
+    private bool isMoving;
+    private Vector3 origPos, targetPos;
+    private float timeToMove = 0.1f;
 
     public int health;
     public int healthcap;
@@ -21,36 +24,33 @@ public class Player : MonoBehaviour{
         healthcap = 10;
     }
 
-    private void FixedUpdate(){
+    private void Update(){
+    	if (Input.GetKey(KeyCode.W) && !isMoving)
+    		StartCoroutine(MovePlayer(Vector3.up));
+        if (Input.GetKey(KeyCode.A) && !isMoving)
+    		StartCoroutine(MovePlayer(Vector3.left));
+        if (Input.GetKey(KeyCode.S) && !isMoving)
+    		StartCoroutine(MovePlayer(Vector3.down));
+        if (Input.GetKey(KeyCode.D) && !isMoving)
+    		StartCoroutine(MovePlayer(Vector3.right));
+    }
 
-        float x = Input.GetAxisRaw("Horizontal");
-        float y = Input.GetAxisRaw("Vertical");
+    private IEnumerator MovePlayer(Vector3 direction){
+    	isMoving = true;
 
-        
+    	float elapsedTime = 0;
 
-        moveDelta = new Vector3(x,y,0);
+    	origPos = transform.position;
+    	targetPos = origPos + direction;
 
-        //swap sprite direction, wether you're going right or left
+    	while(elapsedTime < timeToMove){
+    		transform.position = Vector3.Lerp(origPos, targetPos, (elapsedTime / timeToMove));
+    		elapsedTime += Time.deltaTime;
+    		yield return null;
+    	}
 
-        if(moveDelta.x > 0){
-            transform.localScale = Vector3.one;
-        }
-        else if(moveDelta.x < 0){
-            transform.localScale = new Vector3(-1,1,1);
-        }
+    	transform.position = targetPos;
 
-        hit = Physics2D.BoxCast(transform.position, boxCollider.size, 0, new Vector2(0, moveDelta.y), Mathf.Abs(moveDelta.y * Time.deltaTime), LayerMask.GetMask("Actor", "Blocking"));
-
-        if (hit.collider == null){
-        //move
-        transform.Translate(0, moveDelta.y * Time.deltaTime, 0);
-        }
-
-        hit = Physics2D.BoxCast(transform.position,boxCollider.size, 0, new Vector2(moveDelta.x,0), Mathf.Abs(moveDelta.x * Time.deltaTime), LayerMask.GetMask("Actor", "Blocking"));
-
-        if (hit.collider == null){
-        //move
-        transform.Translate(moveDelta.x * Time.deltaTime, 0, 0);
-        }
+    	isMoving = false;
     }
 }
