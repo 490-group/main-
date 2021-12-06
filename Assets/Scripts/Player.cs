@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -33,6 +33,8 @@ public class Player : MonoBehaviour{
     		StartCoroutine(MovePlayer(Vector3.down));
         if (Input.GetKey(KeyCode.D) && !isMoving)
     		StartCoroutine(MovePlayer(Vector3.right));
+
+
     }
 
     private IEnumerator MovePlayer(Vector3 direction){
