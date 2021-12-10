@@ -15,6 +15,7 @@ public class Player : MonoBehaviour{
     public int health;
     public int healthcap;
     public Text healthbox;
+    private Animator anim;
 
     private void Start(){
         boxCollider = GetComponent<BoxCollider2D>();
@@ -22,24 +23,36 @@ public class Player : MonoBehaviour{
         
         health = 10;
         healthcap = 10;
+        anim = GetComponent<Animator>();
+        anim.SetBool("isAttacking", false);
     }
 
     private void Update(){
+    	
     	if (Input.GetKey(KeyCode.W) && !isMoving)
+    		
     		StartCoroutine(MovePlayer(Vector3.up));
         if (Input.GetKey(KeyCode.A) && !isMoving)
+        	
     		StartCoroutine(MovePlayer(Vector3.left));
         if (Input.GetKey(KeyCode.S) && !isMoving)
+        	
     		StartCoroutine(MovePlayer(Vector3.down));
         if (Input.GetKey(KeyCode.D) && !isMoving)
+        	
     		StartCoroutine(MovePlayer(Vector3.right));
+    	if(Input.GetKeyDown(KeyCode.Space)){
+    		
+       		Attack();
+       		
+       	}
 
 
     }
 
     private IEnumerator MovePlayer(Vector3 direction){
     	isMoving = true;
-
+    	resetAttack();
     	float elapsedTime = 0;
 
     	origPos = transform.position;
@@ -54,5 +67,15 @@ public class Player : MonoBehaviour{
     	transform.position = targetPos;
 
     	isMoving = false;
+    }
+
+    void Attack(){
+    	anim.SetBool("isAttacking", true);
+
+    	
+    }
+
+    void resetAttack(){
+    	anim.SetBool("isAttacking", false);
     }
 }
