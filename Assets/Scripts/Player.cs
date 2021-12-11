@@ -11,11 +11,13 @@ public class Player : MonoBehaviour{
     private bool isMoving;
     private Vector3 origPos, targetPos;
     private float timeToMove = 0.1f;
-
+    public float moveSpeed = 5f;
+    public Rigidbody2D rb;
     public int health;
     public int healthcap;
     public Text healthbox;
     private Animator anim;
+    private Vector2 moveDirection;
 
     private void Start(){
         boxCollider = GetComponent<BoxCollider2D>();
@@ -28,47 +30,32 @@ public class Player : MonoBehaviour{
     }
 
     private void Update(){
-    	
-    	if (Input.GetKey(KeyCode.W) && !isMoving)
-    		
-    		StartCoroutine(MovePlayer(Vector3.up));
-        if (Input.GetKey(KeyCode.A) && !isMoving)
-        	
-    		StartCoroutine(MovePlayer(Vector3.left));
-        if (Input.GetKey(KeyCode.S) && !isMoving)
-        	
-    		StartCoroutine(MovePlayer(Vector3.down));
-        if (Input.GetKey(KeyCode.D) && !isMoving)
-        	
-    		StartCoroutine(MovePlayer(Vector3.right));
+    	ProcessInputs();
+
+
     	if(Input.GetKeyDown(KeyCode.Space)){
     		
        		Attack();
+       
        		
        	}
 
 
     }
 
-    private IEnumerator MovePlayer(Vector3 direction){
-    	isMoving = true;
-    	resetAttack();
-    	float elapsedTime = 0;
-
-    	origPos = transform.position;
-    	targetPos = origPos + direction;
-
-    	while(elapsedTime < timeToMove){
-    		transform.position = Vector3.Lerp(origPos, targetPos, (elapsedTime / timeToMove));
-    		elapsedTime += Time.deltaTime;
-    		yield return null;
-    	}
-
-    	transform.position = targetPos;
-
-    	isMoving = false;
+    void FixedUpdate(){
+    	move();
     }
 
+    void ProcessInputs(){
+    	float moveX = Input.GetAxisRaw("Horizontal");
+    	float moveY = Input.GetAxisRaw("Vertical");
+    	moveDirection = new Vector2(moveX, moveY);
+    }
+
+    void move(){
+    	rb.velocity = new Vector2(moveDirection.x * moveSpeed, moveDirection.y * moveSpeed);
+    }
     void Attack(){
     	anim.SetBool("isAttacking", true);
 
