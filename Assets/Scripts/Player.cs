@@ -33,12 +33,7 @@ public class Player : MonoBehaviour{
     	ProcessInputs();
 
 
-    	if(Input.GetKeyDown(KeyCode.Space)){
-    		
-       		Attack();
-       
-       		
-       	}
+    	
 
 
     }
@@ -51,14 +46,22 @@ public class Player : MonoBehaviour{
     	float moveX = Input.GetAxisRaw("Horizontal");
     	float moveY = Input.GetAxisRaw("Vertical");
     	moveDirection = new Vector2(moveX, moveY);
+    	if(Input.GetKeyDown(KeyCode.Space)){
+    		
+       		Attack();
+       
+       		
+       	}
     }
 
     void move(){
     	rb.velocity = new Vector2(moveDirection.x * moveSpeed, moveDirection.y * moveSpeed);
+    	resetAttack();
     }
     void Attack(){
     	anim.SetBool("isAttacking", true);
-
+    	//yield return new WaitForSecondsRealtime(1);
+    	//resetAttack();
     	
     }
 

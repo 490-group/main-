@@ -1,19 +1,7 @@
 fileFormatVersion: 2
-guid: f42edda182e15d04a8b5e2998a9eb99b
+guid: 5c2700d8a12d6904e9ca426134743a87
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 4018074224661003100
-    second: player_1
-  - first:
-      213: -4869357254534750094
-    second: wall_0
-  - first:
-      213: -6721728136321296765
-    second: floor_0
-  - first:
-      213: -7826287199498012479
-    second: weapon1
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -44,7 +32,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -58,7 +46,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -115,76 +103,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: player_1
+      name: character_0
       rect:
         serializedVersion: 2
-        x: 128
-        y: 416
-        width: 16
-        height: 20
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c5b721af73113c730800000000000000
-      internalID: 4018074224661003100
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: wall_0
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 484
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0.504627, y: 0.48677635}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2702cfe30619c6cb0800000000000000
-      internalID: -4869357254534750094
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: floor_0
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 432
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 38612dd8fdf97b2a0800000000000000
-      internalID: -6721728136321296765
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: weapon1
-      rect:
-        serializedVersion: 2
-        x: 290
-        y: 337
-        width: 12
-        height: 24
+        x: 0
+        y: 0
+        width: 17
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -192,8 +117,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1c8fbbbe141736390800000000000000
-      internalID: -7826287199498012479
+      spriteID: f4060466010544360800000000000000
+      internalID: 7152930139536384079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4d65ec3db4980b0800000000000000
+      internalID: -5725962078152895296
       vertices: []
       indices: 
       edges: []
