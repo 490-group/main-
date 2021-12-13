@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class playerStats : MonoBehaviour{
 
-public Stat health;
+public int health;
 public int currentHealth {get; private set; }
 public Stat attack;
 public Stat defense;
