@@ -216,7 +216,7 @@ RectTransform:
   m_Children:
   - {fileID: 140217896}
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -5174,7 +5174,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 31fb169f084fe02469215e4a12fbe1d4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lookAt: {fileID: 0}
+  lookAt: {fileID: 1269780753}
   boundX: 0.3
   boundY: 0.15
 --- !u!81 &830417491
@@ -5235,11 +5235,11 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 830417489}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -10}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: 0, y: -0, z: -0.0001504207, w: 1}
+  m_LocalPosition: {x: -0.08148985, y: 0.101081744, z: -3.4534373}
+  m_LocalScale: {x: 0.16167022, y: 0.20254768, z: 0.34534374}
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1269780753}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1255654837
@@ -7173,9 +7173,10 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: 0.0001504207, w: 1}
   m_LocalPosition: {x: 0.5042, y: -0.4989, z: 0}
   m_LocalScale: {x: 6.1854315, y: 4.93711, z: 2.8956656}
-  m_Children: []
+  m_Children:
+  - {fileID: 830417493}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0.017}
 --- !u!50 &1269780754
 Rigidbody2D:
@@ -7262,7 +7263,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1924691253
 GameObject:
@@ -7307,7 +7308,7 @@ Transform:
   - {fileID: 267306330}
   - {fileID: 1255654838}
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2015362111
 GameObject:
@@ -7320,6 +7321,8 @@ GameObject:
   - component: {fileID: 2015362113}
   - component: {fileID: 2015362112}
   - component: {fileID: 2015362115}
+  - component: {fileID: 2015362116}
+  - component: {fileID: 2015362117}
   - component: {fileID: 2015362114}
   m_Layer: 0
   m_Name: char2
@@ -7386,13 +7389,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2015362111}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.49, y: -0.62, z: 0}
+  m_LocalRotation: {x: -0.0032755262, y: -0, z: -0, w: 0.99999464}
+  m_LocalPosition: {x: 9.95, y: -0.6, z: -0}
   m_LocalScale: {x: 4.65866, y: 4.65866, z: 4.65866}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: -0.375, y: 0, z: 0}
 --- !u!95 &2015362114
 Animator:
   serializedVersion: 3
@@ -7403,7 +7406,7 @@ Animator:
   m_GameObject: {fileID: 2015362111}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: e50115599221cf2419ca11b50fa6b958, type: 2}
+  m_Controller: {fileID: 9100000, guid: 1507482e1459d4a4ca09f3a3c2793217, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -7424,3 +7427,38 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c49fad304260c344ba3ef2d790e07aa1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &2015362116
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2015362111}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88cb6e91c6385024baa54b0a897de2fc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 1269780753}
+  moveSpeed: 5
+--- !u!50 &2015362117
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2015362111}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
