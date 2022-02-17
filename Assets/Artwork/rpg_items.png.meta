@@ -1,7 +1,298 @@
 fileFormatVersion: 2
 guid: eedd3e9ca9cd9b948a68db832b83793f
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 3935765051588833516
+    second: rpg_items_0
+  - first:
+      213: 8123057840998145112
+    second: rpg_items_1
+  - first:
+      213: 4502680215478769128
+    second: rpg_items_2
+  - first:
+      213: -5935221888632066692
+    second: rpg_items_3
+  - first:
+      213: 3730478222303257836
+    second: rpg_items_4
+  - first:
+      213: -8485132940715976469
+    second: rpg_items_5
+  - first:
+      213: 3461829448253551663
+    second: rpg_items_6
+  - first:
+      213: -9146736839235305886
+    second: rpg_items_7
+  - first:
+      213: -4174015444574987032
+    second: rpg_items_8
+  - first:
+      213: -1970935383241776574
+    second: rpg_items_9
+  - first:
+      213: 6905391311084791597
+    second: rpg_items_10
+  - first:
+      213: 2446666122530793355
+    second: rpg_items_11
+  - first:
+      213: -7632582820732928964
+    second: rpg_items_12
+  - first:
+      213: 5571604692194471167
+    second: rpg_items_13
+  - first:
+      213: -8539862692919149119
+    second: rpg_items_14
+  - first:
+      213: 5249323541159345174
+    second: rpg_items_15
+  - first:
+      213: 4102962683114188564
+    second: rpg_items_16
+  - first:
+      213: 6279603008996742942
+    second: rpg_items_17
+  - first:
+      213: -5943467630222496398
+    second: rpg_items_18
+  - first:
+      213: 7213330569476502786
+    second: rpg_items_19
+  - first:
+      213: 3423808148588590249
+    second: rpg_items_20
+  - first:
+      213: 4894748036501064237
+    second: rpg_items_21
+  - first:
+      213: 3156712201470416131
+    second: rpg_items_22
+  - first:
+      213: 1262233361507256358
+    second: rpg_items_23
+  - first:
+      213: 2572932651613158057
+    second: rpg_items_24
+  - first:
+      213: -8634747785284962283
+    second: rpg_items_25
+  - first:
+      213: 3619404034723998479
+    second: rpg_items_26
+  - first:
+      213: -7990190167671926578
+    second: rpg_items_27
+  - first:
+      213: -2451278050036116441
+    second: rpg_items_28
+  - first:
+      213: 7997809683983997985
+    second: rpg_items_29
+  - first:
+      213: -2077101818769792059
+    second: rpg_items_30
+  - first:
+      213: -270196644303920958
+    second: rpg_items_31
+  - first:
+      213: -4441913568528365264
+    second: rpg_items_32
+  - first:
+      213: 4970996631846159768
+    second: rpg_items_33
+  - first:
+      213: -1769956377256424672
+    second: rpg_items_34
+  - first:
+      213: 3385093913771696120
+    second: rpg_items_35
+  - first:
+      213: 1309503031585769223
+    second: rpg_items_36
+  - first:
+      213: -4860320535663536592
+    second: rpg_items_37
+  - first:
+      213: -6162386079852795080
+    second: rpg_items_38
+  - first:
+      213: -2874844119039753445
+    second: rpg_items_39
+  - first:
+      213: -2209600879937144887
+    second: rpg_items_40
+  - first:
+      213: -2163297276853008278
+    second: rpg_items_41
+  - first:
+      213: -3288942932456864371
+    second: rpg_items_42
+  - first:
+      213: -1164813955503082196
+    second: rpg_items_43
+  - first:
+      213: -2074346262400047859
+    second: rpg_items_44
+  - first:
+      213: -707992260930616302
+    second: rpg_items_45
+  - first:
+      213: -5294391076437378192
+    second: rpg_items_46
+  - first:
+      213: -7395764911760481677
+    second: rpg_items_47
+  - first:
+      213: 7137134222919364133
+    second: rpg_items_48
+  - first:
+      213: 8030245921211315389
+    second: rpg_items_49
+  - first:
+      213: -434753015941269429
+    second: rpg_items_50
+  - first:
+      213: -6134447454603381998
+    second: rpg_items_51
+  - first:
+      213: -6826573462715762673
+    second: rpg_items_52
+  - first:
+      213: 7019570261409373733
+    second: rpg_items_53
+  - first:
+      213: -5200957375836909777
+    second: rpg_items_54
+  - first:
+      213: -6445939943717973338
+    second: rpg_items_55
+  - first:
+      213: -1606517333539448726
+    second: rpg_items_56
+  - first:
+      213: -908365535005324865
+    second: rpg_items_57
+  - first:
+      213: -9118488994610885540
+    second: rpg_items_58
+  - first:
+      213: -6882980253836703637
+    second: rpg_items_59
+  - first:
+      213: 953391671113291473
+    second: rpg_items_60
+  - first:
+      213: -858972035659941069
+    second: rpg_items_61
+  - first:
+      213: -313024795584448963
+    second: rpg_items_62
+  - first:
+      213: -326589194932335611
+    second: rpg_items_63
+  - first:
+      213: -1726526583811498296
+    second: rpg_items_64
+  - first:
+      213: 5325140377723657031
+    second: rpg_items_65
+  - first:
+      213: -1922166106466172711
+    second: rpg_items_66
+  - first:
+      213: -4542485975830443081
+    second: rpg_items_67
+  - first:
+      213: -506815182832204821
+    second: rpg_items_68
+  - first:
+      213: 7179265919317820055
+    second: rpg_items_69
+  - first:
+      213: -4148995438455332559
+    second: rpg_items_70
+  - first:
+      213: -1081973221925889374
+    second: rpg_items_71
+  - first:
+      213: 5501355880212079507
+    second: rpg_items_72
+  - first:
+      213: -319046991197750559
+    second: rpg_items_73
+  - first:
+      213: -584558239584710301
+    second: rpg_items_74
+  - first:
+      213: 1238775585668123802
+    second: rpg_items_75
+  - first:
+      213: -4356664801960750509
+    second: rpg_items_76
+  - first:
+      213: 7495339176976739213
+    second: rpg_items_77
+  - first:
+      213: 4612265051756462356
+    second: rpg_items_78
+  - first:
+      213: 5171255605017110634
+    second: rpg_items_79
+  - first:
+      213: -3414834561605741156
+    second: rpg_items_80
+  - first:
+      213: 758363962725616044
+    second: rpg_items_81
+  - first:
+      213: -8942413514076624532
+    second: rpg_items_82
+  - first:
+      213: 3305047508455433556
+    second: rpg_items_83
+  - first:
+      213: 7419426276729879519
+    second: rpg_items_84
+  - first:
+      213: -3892752022017459209
+    second: rpg_items_85
+  - first:
+      213: -4746427571983839096
+    second: rpg_items_86
+  - first:
+      213: 6024511985998542167
+    second: rpg_items_87
+  - first:
+      213: 2412282199627025264
+    second: rpg_items_88
+  - first:
+      213: -3404155528481115734
+    second: rpg_items_89
+  - first:
+      213: 699026475433817803
+    second: rpg_items_90
+  - first:
+      213: 1366415216907688603
+    second: rpg_items_91
+  - first:
+      213: -5066712952973169904
+    second: rpg_items_92
+  - first:
+      213: 3646585298327274548
+    second: rpg_items_93
+  - first:
+      213: -134099593725432465
+    second: rpg_items_94
+  - first:
+      213: -259887068930467725
+    second: rpg_items_95
+  - first:
+      213: 5266082206120797355
+    second: rpg_items_96
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -89,7 +380,2044 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: rpg_items_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 352
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0795b3675ae9630800000000000000
+      internalID: 3935765051588833516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 401
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c55ae8116eab070800000000000000
+      internalID: 8123057840998145112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 400
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e59accbccbbc7e30800000000000000
+      internalID: 4502680215478769128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d66f0732bd1ada0800000000000000
+      internalID: -5935221888632066692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce467b2ad2255c330800000000000000
+      internalID: 3730478222303257836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 384
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be898aceb80ce3a80800000000000000
+      internalID: -8485132940715976469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24b328aa83ea0030800000000000000
+      internalID: 3461829448253551663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e76636e43401180800000000000000
+      internalID: -9146736839235305886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 385
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec1d1b611be216c0800000000000000
+      internalID: -4174015444574987032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_9
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 384
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24220ae16b4d5a4e0800000000000000
+      internalID: -1970935383241776574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_10
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 384
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d272744afc0e4df50800000000000000
+      internalID: 6905391311084791597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_11
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 384
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b872e6d10ed44f120800000000000000
+      internalID: 2446666122530793355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 369
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3cf67b1d5e931690800000000000000
+      internalID: -7632582820732928964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 359
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffca62ba2f0525d40800000000000000
+      internalID: 5571604692194471167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_14
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 352
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd71fd70205c7980800000000000000
+      internalID: -8539862692919149119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 352
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cf5e5d2f759d840800000000000000
+      internalID: 5249323541159345174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f64b562d6a0f830800000000000000
+      internalID: 4102962683114188564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_17
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 352
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1799b97aa1a52750800000000000000
+      internalID: 6279603008996742942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 337
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d2e8e1eaf848da0800000000000000
+      internalID: -5943467630222496398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_19
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 320
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205fc116fe5ea1460800000000000000
+      internalID: 7213330569476502786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 304
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4f5bbfe5fc38f20800000000000000
+      internalID: 3423808148588590249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_21
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 320
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2acfacd763ade340800000000000000
+      internalID: 4894748036501064237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_22
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 321
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30519c2b505eecb20800000000000000
+      internalID: 3156712201470416131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_23
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 320
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62889400e8a548110800000000000000
+      internalID: 1262233361507256358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aaf76a5d94e4b320800000000000000
+      internalID: 2572932651613158057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_25
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 320
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518bffc53a63b2880800000000000000
+      internalID: -8634747785284962283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0be65c0bc4ba3230800000000000000
+      internalID: 3619404034723998479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0981850642d1190800000000000000
+      internalID: -7990190167671926578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72492e5d99f4bfdd0800000000000000
+      internalID: -2451278050036116441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 288
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c9b0b888dedfe60800000000000000
+      internalID: 7997809683983997985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3a8e996e6ac23e0800000000000000
+      internalID: -2077101818769792059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c023c46591104cf0800000000000000
+      internalID: -270196644303920958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03901e8c4272b52c0800000000000000
+      internalID: -4441913568528365264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_33
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8958ad469178cf440800000000000000
+      internalID: 4970996631846159768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_34
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b81b17d0adf67e0800000000000000
+      internalID: -1769956377256424672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_35
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffd2b5caf44afe20800000000000000
+      internalID: 3385093913771696120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 304
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70787f5b11a4c2210800000000000000
+      internalID: 1309503031585769223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0361d31593cac8cb0800000000000000
+      internalID: -4860320535663536592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_38
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 176
+        width: 48
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bef85928eca7aa0800000000000000
+      internalID: -6162386079852795080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_39
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13c30c51808a18d0800000000000000
+      internalID: -2874844119039753445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7b4f7e4bbe551e0800000000000000
+      internalID: -2209600879937144887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a684b9d969c6af1e0800000000000000
+      internalID: -2163297276853008278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_42
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 176
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85806814d35b52d0800000000000000
+      internalID: -3288942932456864371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2532d001efb5dfe0800000000000000
+      internalID: -1164813955503082196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_44
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d056c7090117633e0800000000000000
+      internalID: -2074346262400047859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_45
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 176
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214418f2ac4bc26f0800000000000000
+      internalID: -707992260930616302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bb3faed5b8686b0800000000000000
+      internalID: -5294391076437378192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372e7384ff6fc5990800000000000000
+      internalID: -7395764911760481677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e6467f2c13c0360800000000000000
+      internalID: 7137134222919364133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_49
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 161
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db474d88e1a217f60800000000000000
+      internalID: 8030245921211315389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b487ac77f6277f9f0800000000000000
+      internalID: -434753015941269429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_51
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 128
+        width: 79
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213f01faa801edaa0800000000000000
+      internalID: -6134447454603381998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_52
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08f7b9ba932341a0800000000000000
+      internalID: -6826573462715762673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e933326f58a6160800000000000000
+      internalID: 7019570261409373733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_54
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 96
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f0b4192dc72d7b0800000000000000
+      internalID: -5200957375836909777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_55
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 96
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a25033f5cb6b86a0800000000000000
+      internalID: -6445939943717973338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_56
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 96
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a689fd03ff084b9e0800000000000000
+      internalID: -1606517333539448726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_57
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 96
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9cccfcb56d463f0800000000000000
+      internalID: -908365535005324865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_58
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 96
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cc8eb329e947180800000000000000
+      internalID: -9118488994610885540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_59
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 96
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68090e3dedba70a0800000000000000
+      internalID: -6882980253836703637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_60
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 96
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d616807ca02b3d00800000000000000
+      internalID: 953391671113291473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_61
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 97
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bbe7e0c715414f0800000000000000
+      internalID: -858972035659941069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_62
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 97
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36bc4d5b99e7abf0800000000000000
+      internalID: -313024795584448963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_63
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 80
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cc3988bd8b77bf0800000000000000
+      internalID: -326589194932335611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_64
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 80
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce95a438352a08e0800000000000000
+      internalID: -1726526583811498296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_65
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 80
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bde41b5f2b6e940800000000000000
+      internalID: 5325140377723657031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_66
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 80
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0c9c83c181355e0800000000000000
+      internalID: -1922166106466172711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_67
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 80
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbce657219d5f0c0800000000000000
+      internalID: -4542485975830443081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_68
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 80
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be30384c64e67f8f0800000000000000
+      internalID: -506815182832204821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_69
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 80
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792c105f050e1a360800000000000000
+      internalID: 7179265919317820055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_70
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 81
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131672c81aecb66c0800000000000000
+      internalID: -4148995438455332559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_71
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 81
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa5f92561f0cf0f0800000000000000
+      internalID: -1081973221925889374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_72
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 68
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3932c0f860eb85c40800000000000000
+      internalID: 5501355880212079507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_73
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 69
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea300fa374829bf0800000000000000
+      internalID: -319046991197750559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_74
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 69
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3619603d06b33e7f0800000000000000
+      internalID: -584558239584710301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_75
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 69
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ccc24f4d3013110800000000000000
+      internalID: 1238775585668123802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_76
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 48
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3529ea9f1740a83c0800000000000000
+      internalID: -4356664801960750509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_77
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 48
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b64caf44bc40860800000000000000
+      internalID: 7495339176976739213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_78
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 49
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41184e3b0ae020040800000000000000
+      internalID: 4612265051756462356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_79
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 49
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68eac3039df3c740800000000000000
+      internalID: 5171255605017110634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_80
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 49
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9553cc0f021c90d0800000000000000
+      internalID: -3414834561605741156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_81
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 49
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9c7b09100468a00800000000000000
+      internalID: 758363962725616044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_82
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 49
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c696fc2b94a26e380800000000000000
+      internalID: -8942413514076624532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_83
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 49
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455a643b233eddd20800000000000000
+      internalID: 3305047508455433556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_84
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 49
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbfead83e817f660800000000000000
+      internalID: 7419426276729879519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_85
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 49
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb37f029aa2af9c0800000000000000
+      internalID: -3892752022017459209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_86
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 49
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88098cb554d412eb0800000000000000
+      internalID: -4746427571983839096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_87
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 49
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755b6866bbd5b9350800000000000000
+      internalID: 6024511985998542167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_88
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 49
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b44c631e52a7120800000000000000
+      internalID: 2412282199627025264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_89
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 49
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa173b4359202c0d0800000000000000
+      internalID: -3404155528481115734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_90
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 49
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc673d430e073b900800000000000000
+      internalID: 699026475433817803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_91
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 49
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a9873766b76f210800000000000000
+      internalID: 1366415216907688603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_92
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 49
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01be923f96b6fa9b0800000000000000
+      internalID: -5066712952973169904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43485f522064b9230800000000000000
+      internalID: 3646585298327274548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_94
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 17
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6da8774125932ef0800000000000000
+      internalID: -134099593725432465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_95
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 17
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3789ea67612b46cf0800000000000000
+      internalID: -259887068930467725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_items_96
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 17
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4e5d59dd1e41940800000000000000
+      internalID: 5266082206120797355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

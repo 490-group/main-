@@ -1,7 +1,91 @@
 fileFormatVersion: 2
 guid: 3edfe0a06fc62554f9031e46f0cb69a5
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -4026288392528791779
+    second: rpg_tiles_0
+  - first:
+      213: -8002951409502252111
+    second: rpg_tiles_1
+  - first:
+      213: -5502865495617536946
+    second: rpg_tiles_2
+  - first:
+      213: -8229745254803655661
+    second: rpg_tiles_3
+  - first:
+      213: 8183137128497639591
+    second: rpg_tiles_4
+  - first:
+      213: -6991261918340814238
+    second: rpg_tiles_5
+  - first:
+      213: 1894670669942442
+    second: rpg_tiles_6
+  - first:
+      213: 892671210261291710
+    second: rpg_tiles_7
+  - first:
+      213: -3937960262723893235
+    second: rpg_tiles_8
+  - first:
+      213: -9107339827296125039
+    second: rpg_tiles_9
+  - first:
+      213: 6941460366322054712
+    second: rpg_tiles_10
+  - first:
+      213: -3755209327192137736
+    second: rpg_tiles_11
+  - first:
+      213: -8359972042573074275
+    second: rpg_tiles_12
+  - first:
+      213: -7401745827900209719
+    second: rpg_tiles_13
+  - first:
+      213: 561251860838915833
+    second: rpg_tiles_14
+  - first:
+      213: -895228906781819248
+    second: rpg_tiles_15
+  - first:
+      213: -7273140499070324082
+    second: rpg_tiles_16
+  - first:
+      213: 2310081882600582714
+    second: rpg_tiles_17
+  - first:
+      213: 2757580920624480535
+    second: rpg_tiles_18
+  - first:
+      213: 3492846408387302128
+    second: rpg_tiles_19
+  - first:
+      213: 877957312550139447
+    second: rpg_tiles_20
+  - first:
+      213: 1893769894687653616
+    second: rpg_tiles_21
+  - first:
+      213: -3338588719841233780
+    second: rpg_tiles_22
+  - first:
+      213: -6648587664035375954
+    second: rpg_tiles_23
+  - first:
+      213: 743696439148646415
+    second: rpg_tiles_24
+  - first:
+      213: -6123857255252886303
+    second: rpg_tiles_25
+  - first:
+      213: -3585203696200669743
+    second: rpg_tiles_26
+  - first:
+      213: 3281660343408861547
+    second: rpg_tiles_27
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -89,7 +173,595 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: rpg_tiles_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 400
+        width: 112
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17fa080a00cf18c0800000000000000
+      internalID: -4026288392528791779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tiles_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b318e1381ecfe090800000000000000
+      internalID: -8002951409502252111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tiles_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c76f6bcf4e1a3b0800000000000000
+      internalID: -5502865495617536946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tiles_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314b8773b421acd80800000000000000
+      internalID: -8229745254803655661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tiles_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 336
+        width: 208
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0796cbcd7509170800000000000000
+      internalID: 8183137128497639591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tiles_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a6499935c0afe90800000000000000
+      internalID: -6991261918340814238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tiles_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae8f34613bb60000800000000000000
+      internalID: 1894670669942442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tiles_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 416
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2a7d47cb7636c00800000000000000
+      internalID: 892671210261291710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tiles_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d080db8510e8959c0800000000000000
+      internalID: -3937960262723893235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tiles_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f3f390eaa3c9180800000000000000
+      internalID: -9107339827296125039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tiles_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 304
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836341dfc65055060800000000000000
+      internalID: 6941460366322054712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tiles_11
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 315
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff9a7b4301d2ebc0800000000000000
+      internalID: -3755209327192137736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tiles_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 272
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d903c3668b96bfb80800000000000000
+      internalID: -8359972042573074275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tiles_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5474ab267b74990800000000000000
+      internalID: -7401745827900209719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tiles_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 272
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe94d20897f9c700800000000000000
+      internalID: 561251860838915833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tiles_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 272
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ebb9a6d028393f0800000000000000
+      internalID: -895228906781819248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tiles_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 272
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82f767304d901b90800000000000000
+      internalID: -7273140499070324082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tiles_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 272
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e297e9b3f0f0020800000000000000
+      internalID: 2310081882600582714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tiles_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 272
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711873dac35e44620800000000000000
+      internalID: 2757580920624480535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tiles_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f29ce27d45197030800000000000000
+      internalID: 3492846408387302128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tiles_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736f18e26812f2c00800000000000000
+      internalID: 877957312550139447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tiles_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0febf238fa5084a10800000000000000
+      internalID: 1893769894687653616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tiles_22
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84bcb67f33faa1d0800000000000000
+      internalID: -3338588719841233780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tiles_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4902bceb87bb3a0800000000000000
+      internalID: -6648587664035375954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tiles_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f009d2c98f3225a00800000000000000
+      internalID: 743696439148646415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tiles_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 80
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecf37d9540b30ba0800000000000000
+      internalID: -6123857255252886303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tiles_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5aa88cb3cce3ec0800000000000000
+      internalID: -3585203696200669743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_tiles_27
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b612f5202bcca8d20800000000000000
+      internalID: 3281660343408861547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
