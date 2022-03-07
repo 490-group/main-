@@ -7351,11 +7351,11 @@ GameObject:
   m_Component:
   - component: {fileID: 1269780753}
   - component: {fileID: 1269780752}
+  - component: {fileID: 1269780755}
   - component: {fileID: 1269780751}
   - component: {fileID: 1269780750}
   - component: {fileID: 1269780749}
   - component: {fileID: 1269780748}
-  - component: {fileID: 1269780755}
   - component: {fileID: 1269780754}
   - component: {fileID: 1269780756}
   m_Layer: 0
