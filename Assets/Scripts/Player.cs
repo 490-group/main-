@@ -10,21 +10,21 @@ public class Player : MonoBehaviour{
     private RaycastHit2D hit;
     private bool isMoving;
     private Vector3 origPos, targetPos;
-    private float timeToMove = 0.1f;
+    //private float timeToMove = 0.1f;
     public float moveSpeed = 5f;
     public Rigidbody2D rb;
-    public int health;
-    public int healthcap;
-    public Text healthbox;
+    //public int health;
+    //public int healthcap;
+    //public Text healthbox;
     private Animator anim;
     private Vector2 moveDirection;
 
     private void Start(){
         boxCollider = GetComponent<BoxCollider2D>();
-        healthbox = GetComponent<Text>();
+        //healthbox = GetComponent<Text>();
         
-        health = 10;
-        healthcap = 10;
+        //health = 10;
+        //healthcap = 10;
         anim = GetComponent<Animator>();
         anim.SetBool("isAttacking", false);
     }
