@@ -1,33 +1,40 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
-public class playerStats : MonoBehaviour{
-
-public int health;
-public int currentHealth {get; private set; }
-public Stat attack;
-public Stat defense;
-public Stat agility;
-public Stat damage;
-
-void Awake()
+public class playerStats : CharacterStats
 {
-    currentHealth = health;
-}
-public void TakeDamage(int damage)
-{
-    damage -= defense.GetValue();
-    damage = Mathf.Clamp(damage, 0, int.MaxValue);
+    // Start is called before the first frame update
+    
+    PlayerUI playerUI;
 
-    currentHealth -= damage;
-
-    if(currentHealth <= 0)
+    void Start()
     {
-        Die();
+
+        playerUI = GetComponent<PlayerUI> ();
+
+        maxHealth = 20;
+        currentHealth = maxHealth;
+
+        startAttack = 2;
+        startDefense = 2;
+        startAgility = 2;
+        startLuck = 2;
+
+        SetStats();
     }
-}
-public virtual void Die()
-{
 
-}
+    // Update is called once per frame
+    public override void Die()
+    {
+        Debug.Log("You Die!");
+    }
 
+    void SetStats(){
+       playerUI.healthAmount.text = currentHealth.ToString();
+       playerUI.attackAmount.text = startAttack.ToString();
+       playerUI.defenseAmount.text = startDefense.ToString();
+       playerUI.agilityAmount.text = startAgility.ToString();
+       playerUI.luckAmount.text = startLuck.ToString();
+   }
 }
