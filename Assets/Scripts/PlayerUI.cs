@@ -5,6 +5,6 @@ using UnityEngine.UI;
 
 public class PlayerUI : MonoBehaviour
 {   
-    public Text healthAmount, attackAmount, defenseAmount, agilityAmount, luckAmount;
+    public Text healthAmount, attackAmount, defenseAmount, agilityAmount, luckAmount, levelAmount;
 
 }

@@ -18,14 +18,14 @@ public class Enemy : MonoBehaviour
     {
         if(Input.GetKeyDown(KeyCode.Space)){
     		
-       		Attacked();
+       		//Attacked();
        
        		
        	}
-       	anim.SetBool("isAttacked", false);
+       	//anim.SetBool("isAttacked", false);
     }
 
     void Attacked(){
-    	anim.SetBool("isAttacked", true);
+    	//anim.SetBool("isAttacked", true);
     }
 }

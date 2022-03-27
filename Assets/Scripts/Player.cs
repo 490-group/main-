@@ -19,15 +19,19 @@ public class Player : MonoBehaviour{
     //public Text healthbox;
     private Animator anim;
     private Vector2 moveDirection;
-
+    public GameObject protag;
+    private CharacterStats startAttack;
+    //public int startAttack;
     private void Start(){
         boxCollider = GetComponent<BoxCollider2D>();
+        
         //healthbox = GetComponent<Text>();
         
         //health = 10;
         //healthcap = 10;
+        startAttack = protag.GetComponent<CharacterStats>();
         anim = GetComponent<Animator>();
-        anim.SetBool("isAttacking", false);
+        //anim.SetBool("isAttacking", false);
     }
 
     private void Update(){
@@ -57,21 +61,33 @@ public class Player : MonoBehaviour{
 
     void move(){
     	rb.velocity = new Vector2(moveDirection.x * moveSpeed, moveDirection.y * moveSpeed);
-    	resetAttack();
+    	//resetAttack();
     }
     void Attack(){
-    	anim.SetBool("isAttacking", true);
+    	//anim.SetBool("isAttacking", true);
     	//yield return new WaitForSecondsRealtime(1);
     	//resetAttack();
     	
     }
 
     void resetAttack(){
-    	anim.SetBool("isAttacking", false);
+    	//anim.SetBool("isAttacking", false);
     }
 
     void OnTriggerEnter2D(Collider2D other){
         if(other.CompareTag("boss")){
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex-2);
+            
+        }
+        if(other.CompareTag("item")){
+           //startAttack = 10;
+           //Debug.Log("Ant Smashed");
+            
+        }
+    }
+
+    void pickupItem(Collider2D other){
+        if(other.CompareTag("item")){
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex-2);
             
         }

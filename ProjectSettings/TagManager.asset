@@ -7,6 +7,12 @@ TagManager:
   - SpawnPoint
   - Rooms
   - boss
+  - item
+  - weapon
+  - armor
+  - footgear
+  - rings
+  - enemy
   layers:
   - Default
   - TransparentFX

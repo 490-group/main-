@@ -10,7 +10,8 @@ public class CharacterStats : MonoBehaviour
     public int startDefense;
     public int startAgility;
     public int startLuck;
-
+    public int startLevel;
+    //PlayerUI playerUI;
     public bool isDead = false;
 
     public void checkHealth()
@@ -28,4 +29,6 @@ public class CharacterStats : MonoBehaviour
     {
 
     }
+
+
 }
