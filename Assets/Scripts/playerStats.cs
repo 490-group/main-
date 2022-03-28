@@ -42,22 +42,22 @@ public class playerStats : CharacterStats
 
    void OnTriggerEnter2D(Collider2D other){
         if(other.CompareTag("weapon")){
-           startAttack = 10;
+           startAttack += 10;
            Destroy (other.gameObject);
            SetStats();   
         }
         if(other.CompareTag("armor")){
-           startDefense = 10;
+           startDefense += 10;
            Destroy (other.gameObject);
            SetStats();   
         }
         if(other.CompareTag("footgear")){
-           startAgility = 10;
+           startAgility += 10;
            Destroy (other.gameObject);
            SetStats();   
         }
         if(other.CompareTag("rings")){
-           startLuck = 10;
+           startLuck += 10;
            Destroy (other.gameObject);
            SetStats();   
         }

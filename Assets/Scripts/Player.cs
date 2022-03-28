@@ -79,7 +79,7 @@ public class Player : MonoBehaviour{
         if(other.CompareTag("footgear")){
            //startAttack = 10;
            //Debug.Log("Ant Smashed");
-            moveSpeed = 10f;
+            moveSpeed += 5f;
             
         }
     }
