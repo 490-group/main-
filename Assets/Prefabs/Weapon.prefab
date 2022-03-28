@@ -12,8 +12,8 @@ GameObject:
   - component: {fileID: 212425817950729992}
   - component: {fileID: 8237785975902465926}
   m_Layer: 9
-  m_Name: Boss
-  m_TagString: boss
+  m_Name: Weapon
+  m_TagString: footgear
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26,8 +26,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1898445321837384}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.07, y: 4.98, z: 0}
-  m_LocalScale: {x: 1.1294626, y: 1.1294628, z: 1.1294628}
+  m_LocalPosition: {x: 5.01, y: 4.83, z: 0}
+  m_LocalScale: {x: 5.39658, y: 5.396581, z: 5.396581}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -72,7 +72,8 @@ SpriteRenderer:
   m_SortingLayerID: -914608705
   m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 4c4c9811a130f2248a0d8f1c1fff0641, type: 3}
+  m_Sprite: {fileID: -7826287199498012479, guid: f42edda182e15d04a8b5e2998a9eb99b,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -100,7 +101,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.9771429, y: 0.9771429}
+    oldSize: {x: 0.12, y: 0.24}
     newSize: {x: 7.22, y: 6.83}
     adaptiveTilingThreshold: 0.5
     drawMode: 0

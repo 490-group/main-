@@ -75,13 +75,11 @@ public class Player : MonoBehaviour{
     }
 
     void OnTriggerEnter2D(Collider2D other){
-        if(other.CompareTag("boss")){
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex-2);
-            
-        }
-        if(other.CompareTag("item")){
+        
+        if(other.CompareTag("footgear")){
            //startAttack = 10;
            //Debug.Log("Ant Smashed");
+            moveSpeed = 10f;
             
         }
     }

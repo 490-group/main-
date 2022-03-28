@@ -62,7 +62,13 @@ public class playerStats : CharacterStats
            SetStats();   
         }
         if(other.CompareTag("enemy")){
-           currentHealth -= 10;
+           if (startDefense >= 10){
+               currentHealth -= 5;
+           }
+           if (startDefense < 10){
+               currentHealth -= 10;
+           }
+           //currentHealth -= 10;
            Destroy (other.gameObject);
            SetStats();   
         }
