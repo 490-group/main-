@@ -8,6 +8,8 @@ public class playerStats : CharacterStats
     
     PlayerUI playerUI;
 
+    public int levelAmount = 1;
+    //bool temp = false;
     void Start()
     {
 
@@ -15,13 +17,16 @@ public class playerStats : CharacterStats
 
         maxHealth = 20;
         currentHealth = maxHealth;
-
+        Debug.Log(startLevel);
         startAttack = 2;
         startDefense = 2;
         startAgility = 2;
         startLuck = 2;
         startLevel = 1;
-
+      
+        
+        
+        //startLevel += levelAmount;
         SetStats();
     }
 
@@ -37,7 +42,7 @@ public class playerStats : CharacterStats
        playerUI.defenseAmount.text = startDefense.ToString();
        playerUI.agilityAmount.text = startAgility.ToString();
        playerUI.luckAmount.text = startLuck.ToString();
-       playerUI.levelAmount.text = startLevel.ToString();
+       //playerUI.levelAmount.text = startLevel.ToString();
    }
 
    void OnTriggerEnter2D(Collider2D other){
@@ -73,10 +78,24 @@ public class playerStats : CharacterStats
            SetStats();   
         }
         if(other.CompareTag("boss")){
-           startLevel += 1;
+           startLevel++;
+           temp = true;
+           Debug.Log(startLevel);
+           levelAmount++;
            //Destroy (other.gameObject);
            SetStats();   
-           SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex-2);
+           //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex-2);
+           //int xcount = Random.Range(1, 3);
+           //if(xcount == 1){
+           SceneManager.LoadScene("Loading2");
+           //}
+           //else if(xcount == 2){
+           //SceneManager.LoadScene("Loading2");
+           //}
+           //else if(xcount == 3){
+           //SceneManager.LoadScene("Loading3");
+           //}
+           
         }
     }
 

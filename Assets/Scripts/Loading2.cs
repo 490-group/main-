@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-public class Loading : MonoBehaviour
+public class Loading2 : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
@@ -13,7 +13,7 @@ public class Loading : MonoBehaviour
     IEnumerator waiter(){
         yield return new WaitForSeconds(1);
         //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2);
-        SceneManager.LoadScene("Main");
+        SceneManager.LoadScene("Main2");
     }
     // Update is called once per frame
     void Update()

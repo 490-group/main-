@@ -566,7 +566,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.050980397, g: 0.04705883, b: 0.050980397, a: 1}
+  m_Color: {r: 0.03773582, g: 0.036810223, b: 0.036810223, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -586,7 +586,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Tip: Avoid enemies when you are low on health'
+  m_Text: 'Tip: Footgear increases your movement speed'
 --- !u!222 &447214660
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -786,7 +786,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.047169805, g: 0.04556781, b: 0.04556781, a: 1}
+  m_Color: {r: 0.066037714, g: 0.063794926, b: 0.063794926, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -946,7 +946,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 785464527}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 27d447902d2d3134d9ebabbd3052342a, type: 3}
+  m_Script: {fileID: 11500000, guid: 5b16d07606d1f58459566b9be9b886fd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!212 &785464529

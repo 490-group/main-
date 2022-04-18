@@ -13,6 +13,7 @@ public class CharacterStats : MonoBehaviour
     public int startLevel;
     //PlayerUI playerUI;
     public bool isDead = false;
+    public bool temp = false;
 
     public void checkHealth()
     {
