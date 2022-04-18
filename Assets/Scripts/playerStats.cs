@@ -75,6 +75,9 @@ public class playerStats : CharacterStats
            }
            //currentHealth -= 10;
            Destroy (other.gameObject);
+           if(currentHealth <= 0){
+               SceneManager.LoadScene("Death");
+           }
            SetStats();   
         }
         if(other.CompareTag("boss")){
