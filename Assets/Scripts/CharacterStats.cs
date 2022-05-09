@@ -11,6 +11,7 @@ public class CharacterStats : MonoBehaviour
     public int startAgility;
     public int startLuck;
     public int startLevel;
+    
     //PlayerUI playerUI;
     public bool isDead = false;
     public bool temp = false;

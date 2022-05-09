@@ -193,7 +193,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -89, y: 334}
+  m_AnchoredPosition: {x: 204, y: 129.03}
   m_SizeDelta: {x: 1578.3572, y: 258.0539}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &55493311
@@ -243,8 +243,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 200
-  m_fontSizeBase: 200
+  m_fontSize: 90
+  m_fontSizeBase: 90
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -992,9 +992,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Dark Corridor: The Dark Corridor by Darkroom (c) copyright 2022 Licensed
-    under a Creative Commons Attribution Noncommercial  (3.0) license. http://dig.ccmixter.org/files/mactonite/64793
-    Ft: Mana Junkie'
+  m_Text: "Dark Corridor: The Dark Corridor by Darkroom (c) copyright 2022 Licensed
+    \nunder a Creative Commons Attribution Noncommercial  (3.0) license. http://dig.ccmixter.org/files/mactonite/64793
+    Ft: Mana Junkie"
 --- !u!222 &169070641
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1115,8 +1115,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 637, y: 5}
-  m_SizeDelta: {x: 401.4941, y: 531.9421}
+  m_AnchoredPosition: {x: 540, y: 55.112}
+  m_SizeDelta: {x: 396.2728, y: 525.0242}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &217080108
 MonoBehaviour:
@@ -4430,8 +4430,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Agent Bleu: Agent Bleu by djolliej (c) copyright 2012 Licensed under a
-    Creative Commons Attribution Noncommercial  (3.0) license. http://dig.ccmixter.org/files/djolliej/39240 '
+  m_Text: "Agent Bleu: Agent Bleu by djolliej (c) copyright 2012 Licensed under \na
+    Creative Commons Attribution Noncommercial  (3.0) license. http://dig.ccmixter.org/files/djolliej/39240 "
 --- !u!222 &1711850876
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4745,7 +4745,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 171, y: -44.35852}
+  m_AnchoredPosition: {x: 234, y: 24.687}
   m_SizeDelta: {x: 401.4941, y: 464.1749}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1838101988
@@ -4884,7 +4884,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 171, y: -44.35852}
+  m_AnchoredPosition: {x: 234, y: 24.686996}
   m_SizeDelta: {x: 401.4941, y: 464.1749}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1927349487

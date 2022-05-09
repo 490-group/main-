@@ -37,6 +37,15 @@ public class enemyMove : MonoBehaviour
         moveCharacter(movement);
     }
 
+    void OnTriggerEnter2D(Collider2D other){
+        if(other.CompareTag("Player")){
+           
+           
+           
+             
+        }
+    }
+
     void moveCharacter(Vector2 direction){
         rb.MovePosition((Vector2)transform.position + (direction * (moveSpeed/3) * Time.deltaTime));
     }
